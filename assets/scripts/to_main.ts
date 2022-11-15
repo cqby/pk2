@@ -6,7 +6,7 @@ export class to_main extends Component {
     start() {
         setTimeout(() => {
             director.loadScene('main')
-        }, 3000);
+        }, 2000);
     }
 
     update(deltaTime: number) {
