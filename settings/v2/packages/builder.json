@@ -1,5 +1,7 @@
 {
   "splash-setting": {
-    "totalTime": 0
+    "totalTime": 0,
+    "displayWatermark": false,
+    "url": "project://assets/textures/gg.png"
   }
 }
